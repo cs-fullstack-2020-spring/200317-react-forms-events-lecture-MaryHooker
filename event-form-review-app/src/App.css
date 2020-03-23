@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  background-color: rgb(216, 168, 209);
+  color: rgb(69, 69, 143);
+  font-size: 22px;
+  font-family: serif;
+}
+
+button{
+  background-color: rgb(69, 69, 143);
+  color: rgb(216, 168, 209);
+  height: 32px;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: serif;
+}
